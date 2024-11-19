@@ -1,8 +1,13 @@
-# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
-Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
+
+Ex No: 03    Implementation & Analysis of D-flipflop using Cadence EDA Tools   
 
 Aim:
+
 To design and implement a D-flip-flop using Cadence EDA tools, simulate its behavior, and analyze key performance parameters such as timing, power consumption, and resource utilization for a comprehensive understanding of sequential logic circuits.
+
+CIRCUIT DIAGRAM:
+
+![WhatsApp Image 2024-11-19 at 18 15 12_008244d0](https://github.com/user-attachments/assets/a19db8de-129d-4244-a4cd-b454de37fdeb)
 
 Tools Required:
 •	Personal Computer
@@ -79,7 +84,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![image](https://github.com/user-attachments/assets/f8e839f5-74b9-4590-9ffd-916b38b72467)
+![image](https://github.com/user-attachments/assets/4824e631-32a4-4a93-afcf-4f00189cf1dd)
+
 
 
  
@@ -94,11 +100,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![image](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![image](https://github.com/user-attachments/assets/35fede7f-d894-478b-a3e6-f8e9d1a52d52)
 
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+
+![image](https://github.com/user-attachments/assets/b4fc38f2-89da-4b81-99cb-a91a4accc001)
+
+![image](https://github.com/user-attachments/assets/80e694cf-a19b-40ee-aa4e-dea08fb0d088)
+
+ 
+ 
 
 Results:
 The design and implementation of the D-flip-flop using Cadence EDA tools were successfully completed. The simulated results confirmed the correct operation of the flip-flop, with proper synchronization of the input data with the clock signal. Key performance parameters such as propagation delay, power consumption, and area utilization were evaluated, aligning with expected theoretical values.
